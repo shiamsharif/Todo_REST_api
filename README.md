@@ -45,7 +45,7 @@ The API will be available at `http://127.0.0.1:5000/`.
 ```
 todo-api/
 ├── todo/              # Your app
-├── todo_api/          # Django project root
+├── Main/          # Django project root
 ├── pyproject.toml     # Poetry config
 ├── manage.py
 └── README.md
